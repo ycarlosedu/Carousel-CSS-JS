@@ -8,6 +8,7 @@ body {
   display: grid;
   place-items: top;
   height: 100vh;
+  width: 1300px;
 }
 
 h1 {
@@ -41,11 +42,11 @@ button:active{
 }
 
 #back{
-  left: 5;
+  left: 1%;
 }
 
 #forward{
-  right: 5;
+  right: 1%;
 }
 
 #items-wrapper {
